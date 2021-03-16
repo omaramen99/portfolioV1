@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/portfolioV1/static/css/main.9cf6b0fa.chunk.css",
+    "main.js": "/portfolioV1/static/js/main.6a75b4b2.chunk.js",
+    "main.js.map": "/portfolioV1/static/js/main.6a75b4b2.chunk.js.map",
+    "runtime-main.js": "/portfolioV1/static/js/runtime-main.416e8172.js",
+    "runtime-main.js.map": "/portfolioV1/static/js/runtime-main.416e8172.js.map",
+    "static/js/2.7d2d2b17.chunk.js": "/portfolioV1/static/js/2.7d2d2b17.chunk.js",
+    "static/js/2.7d2d2b17.chunk.js.map": "/portfolioV1/static/js/2.7d2d2b17.chunk.js.map",
+    "static/js/3.064fa0ac.chunk.js": "/portfolioV1/static/js/3.064fa0ac.chunk.js",
+    "static/js/3.064fa0ac.chunk.js.map": "/portfolioV1/static/js/3.064fa0ac.chunk.js.map",
+    "index.html": "/portfolioV1/index.html",
+    "static/css/main.9cf6b0fa.chunk.css.map": "/portfolioV1/static/css/main.9cf6b0fa.chunk.css.map",
+    "static/js/2.7d2d2b17.chunk.js.LICENSE.txt": "/portfolioV1/static/js/2.7d2d2b17.chunk.js.LICENSE.txt",
+    "static/media/100x100React3.png": "/portfolioV1/static/media/100x100React3.c1f95732.png",
+    "static/media/400x500BS.png": "/portfolioV1/static/media/400x500BS.27146b5f.png",
+    "static/media/400x500CSS.png": "/portfolioV1/static/media/400x500CSS.93a2cd46.png",
+    "static/media/400x500HTML.png": "/portfolioV1/static/media/400x500HTML.a0f57812.png",
+    "static/media/400x500JS.png": "/portfolioV1/static/media/400x500JS.111b995b.png",
+    "static/media/400x500MongoDB.png": "/portfolioV1/static/media/400x500MongoDB.688b6b9c.png",
+    "static/media/400x500Node.png": "/portfolioV1/static/media/400x500Node.d65524f8.png",
+    "static/media/400x500React.png": "/portfolioV1/static/media/400x500React.3be03d55.png",
+    "static/media/400x500Skill.png": "/portfolioV1/static/media/400x500Skill.01c1f0ec.png",
+    "static/media/400x500WebGL.png": "/portfolioV1/static/media/400x500WebGL.692f3b31.png",
+    "static/media/ikea.png": "/portfolioV1/static/media/ikea.bae7319d.png",
+    "static/media/jum.png": "/portfolioV1/static/media/jum.9b00980c.png",
+    "static/media/logo.svg": "/portfolioV1/static/media/logo.6ce24c58.svg",
+    "static/media/pbg.jpeg": "/portfolioV1/static/media/pbg.ef094e47.jpeg",
+    "static/media/por.png": "/portfolioV1/static/media/por.ed8d2249.png",
+    "static/media/yt1s.com - Retrowave animation_1080p.mp4": "/portfolioV1/static/media/yt1s.com - Retrowave animation_1080p.567abd8f.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.416e8172.js",
+    "static/js/2.7d2d2b17.chunk.js",
+    "static/css/main.9cf6b0fa.chunk.css",
+    "static/js/main.6a75b4b2.chunk.js"
+  ]
+}
